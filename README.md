@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Y-Mehmet/Y-Mehmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mehmet,  an Unity Game Developer 👨‍💻 
+- 🔭 I’m currently working on Unity Mobile Game 
 
-Here are some ideas to get you started:
+- 💬 Ask me anything related to Unity and I'll be happy to help.<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💪</font></font>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me mehmetyalcin0040@gmail.com
+- Connect with me:
+<a href="https://www.linkedin.com/in/mehmet-yal%C3%A7in-25402b212/" rel="nofollow">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetyalcin" height="30" width="40" style="max-width: 100%;"> 
+
+
+
