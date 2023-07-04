@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Mehmet,  an Unity Game Developer 👨‍💻 
-- 🔭 I’m currently working on Unity Mobile Game 
+- 🔭 I’m currently working on Unity  Game 
 
 - 💬 Ask me anything related to Unity and I'll be happy to help.<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">💪</font></font>
 
