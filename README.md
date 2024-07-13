@@ -13,7 +13,8 @@ I'm Mehmet,  an Unity Game Developer 👨‍💻
 - Connect with me:
 <a href="https://www.linkedin.com/in/mehmet-yal%C3%A7in-25402b212/" rel="nofollow">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmetyalcin" height="30" width="40" style="max-width: 100%;">
-  - My portfolio itch io website:
+
+- My portfolio itch io website:
 <a href="https://y-mehmet.itch.io/" rel="nofollow">
   <img align="center" src="https://raw.githubusercontent.com/Y-Mehmet/Y-Mehmet/10e3c5c615cbcfb8896e0ce6379fbb4eb33d86a6/Yal%C3%A7in.png" height="30" width="40" style="max-width: 100%;">
 </a>
