@@ -5,9 +5,7 @@ I'm Mehmet, an Unity Game Developer 👨‍💻
 
 - 💬 Ask me anything related to Unity and I'll be happy to help. 💪
 - Main games I developed:
-  - [GameJam1](https://github.com/01-Ugur/GameJam1)
-  - [KelimeSavasi](https://github.com/Y-Mehmet/KelimeSavasi)
-  - [Space-Adventure-Game](https://github.com/Y-Mehmet/Space-Adventure-Game)
+  - [America 1775](https://y-mehmet.itch.io/america-1775)
 
 - 📫 How to reach me mehmetyalcin0040@gmail.com
 
